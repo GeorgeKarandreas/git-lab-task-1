@@ -13,6 +13,9 @@ body {
     cursor: pointer;
     transition: transform 0.3s;
 }
+#new-egg {
+    background: linear-gradient(45deg, darkblue, purple);
+}
 .egg:hover {
     transform: scale(1.1);
 }
