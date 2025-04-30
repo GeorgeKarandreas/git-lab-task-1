@@ -1,0 +1,4 @@
+ed300a7 Changed the gradient to blue-orange (without the line splits)
+92161ca Added more eggs with dark blue/purple colours
+c089cd2 Changed egg colour to dark red
+6b274b4 Initial commit
