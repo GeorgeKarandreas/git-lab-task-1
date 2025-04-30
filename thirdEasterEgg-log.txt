@@ -1,0 +1,4 @@
+7b0bdc9 Changed easter egg Keybind to 'kangaroo'
+0450a4c Fixed rainbow theme to be a gradient from left to right without the line splits
+c089cd2 Changed egg colour to dark red
+6b274b4 Initial commit
