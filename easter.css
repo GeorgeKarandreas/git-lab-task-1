@@ -14,7 +14,7 @@ body {
     transition: transform 0.3s;
 }
 #new-egg {
-    background: linear-gradient(45deg, darkblue, purple);
+    background: linear-gradient(45deg, darkgreen, green);
 }
 .egg:hover {
     transform: scale(1.1);
