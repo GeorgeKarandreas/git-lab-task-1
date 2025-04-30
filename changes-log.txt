@@ -1,0 +1,11 @@
+2065de0 Changed basket emoji to candle emoji
+6de9725 Changed background colour to yellow
+4763af8 Made half the eggs dark green
+36fe553 Three changes:
+8c1f287 Merge branch 'moreEggs' into 'main'
+ed300a7 Changed the gradient to blue-orange (without the line splits)
+92161ca Added more eggs with dark blue/purple colours
+7b0bdc9 Changed easter egg Keybind to 'kangaroo'
+0450a4c Fixed rainbow theme to be a gradient from left to right without the line splits
+c089cd2 Changed egg colour to dark red
+6b274b4 Initial commit
